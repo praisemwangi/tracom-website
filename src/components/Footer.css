@@ -1,0 +1,28 @@
+.footer{
+    background-color: #000853;
+    color: white;
+    padding: 150px;
+    margin-top: 70px;
+    
+  }
+  
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer ul{
+    list-style-type: none;
+  }
+  .footer ul li a{
+    text-decoration: none;
+    
+  }
+  .footer-col{
+    width: 25%;
+    padding: 0 15px;
+  }
+  .footer-col h4{
+    font-size: 18px;
+    text-transform: capitalize;
+  }
+  
